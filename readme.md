@@ -1,4 +1,4 @@
-<p  align="center">
+<p align="center">
   <img src=".github\logo.svg" alt="nlw copa logo">
 </p>
 
@@ -10,6 +10,6 @@
 
 <p align="center">
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/Made%20by-Rocketseat-%23F8952D">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/Made%20by-Rocketseat-%238257e5">
   </a>
 </p>
